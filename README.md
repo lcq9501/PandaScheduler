@@ -7,7 +7,7 @@ Mentors (other students) will see lists of these requests and respond
 accordingly.
 
 PandaScheduler was created out of need for
-[CS 370L]{https://docs.google.com/document/d/1LvyX1pjvq83MPHH74jc4vOeZHDmU-D6bSV90DalRKx4/edit}.
+[CS 370L](https://docs.google.com/document/d/1LvyX1pjvq83MPHH74jc4vOeZHDmU-D6bSV90DalRKx4/edit).
 
 In the future, we hope to extend this platform to include more regular events
 (Office Hours), and also special events (class sponsered review sessions).
@@ -31,8 +31,8 @@ In the future, we hope to extend this platform to include more regular events
 
 
 ## Setup
-You'll need [Python2]{http://www.python.org/download/} and
-[Flask]{http://flask.pocoo.org/}.
+You'll need [Python2](http://www.python.org/download/) and
+[Flask](http://flask.pocoo.org/).
 
 After installing those, you should be able to run the app:
 
